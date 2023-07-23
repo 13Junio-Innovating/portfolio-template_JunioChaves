@@ -1,0 +1,9 @@
+.techList{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 0.9375rem;
+    margin-top: 50px;
+    width: 54.3125rem;
+    height: 15.625rem;
+}
